@@ -120,16 +120,11 @@
     "ffzyapi": {
       "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
       "name": "非凡资源"
-    },
-    "heimuer": {
-      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
-      "name": "黑木耳资源",
-      "detail": "https://heimuer.tv"
-    },
+    }，
     "sdzyapi": {
       "api": "https://sdzyapi.com/api.php/provide/vod/",
       "name": "闪电资源"
-    },
+    }，
     "hongniuzy": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "name": "红牛资源"
@@ -137,7 +132,7 @@
     "wolongzyw": {
       "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
       "name": "卧龙资源"
-    },
+    }，
     "guangsuapi": {
       "api": "https://api.guangsuapi.com/api.php/provide/vod/",
       "name": "光速资源"
@@ -161,14 +156,10 @@
     "lzizy": {
       "api": "http://lzizy1.com/api.php/provide/vod/",
       "name": "量子资源"
-    }，
+    },
     "360zy": {
       "api": "https://360zy.com/api.php/provide/vod/",
       "name": "360资源"
-    }，
-    "bfzy": {
-      "api": "https://bfzyapi.com/api.php/provide/vod/",
-      "name": "暴风资源"
     },
     "jyzyapi": {
       "api": "https://jyzyapi.com/provide/vod/",
